@@ -54,9 +54,7 @@ void	max_put(t_list **from, t_list **to, int n, char stack_name)
 void	push_swap(int n, t_list *stack)
 {
 	int		i;
-	t_list	*temp;
-
-	temp = stack;
+	
 	i = is_sorted(stack);
 	if (i)
 		exit (1);
