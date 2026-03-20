@@ -1,5 +1,7 @@
 # :dizzy: About Me:
-About
+Motivated software developer and IT specialist with foundational skills in programming and IT systems.
+Interested in building software solutions, solving technical problems, and gaining hands-on experience in
+modern development environments.
 ## :globe_with_meridians: Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/razmik-grigoryan-4a6a342a1)
 # :computer: Tech Stack:
